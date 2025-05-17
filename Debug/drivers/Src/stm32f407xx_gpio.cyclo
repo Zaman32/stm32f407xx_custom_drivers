@@ -1,0 +1,8 @@
+../drivers/Src/stm32f407xx_gpio.c:11:6:gpio_init	3
+../drivers/Src/stm32f407xx_gpio.c:60:6:gpio_deinit	10
+../drivers/Src/stm32f407xx_gpio.c:101:6:peri_clock_control	20
+../drivers/Src/stm32f407xx_gpio.c:184:9:read_pin	1
+../drivers/Src/stm32f407xx_gpio.c:192:10:read_port	1
+../drivers/Src/stm32f407xx_gpio.c:198:6:write_pin	2
+../drivers/Src/stm32f407xx_gpio.c:214:6:write_port	1
+../drivers/Src/stm32f407xx_gpio.c:219:6:toggle_pin	1
